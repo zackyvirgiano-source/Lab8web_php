@@ -115,34 +115,39 @@ Melalui praktikum ini, berhasil dibuat aplikasi sederhana untuk mengelola data b
 <img width="1037" height="198" alt="php3" src="https://github.com/user-attachments/assets/1a423082-b7b5-4650-b9a8-e53465b8e4bd" />
 
 
-<img width="758" height="283" alt="Screenshot 2026-11-16 132140" src="https://github.com/user-attachments/assets/6c0eeb88-e47b-426b-9cd2-325b20f74614" />
+<img width="962" height="541" alt="image" src="https://github.com/user-attachments/assets/c44f2535-d3c7-4eee-b954-eb7ef2a1034d" />
 
 
-<img width="573" height="148" alt="Screenshot 2026-11-16 133302" src="https://github.com/user-attachments/assets/fb3aa503-ddaf-4281-ac3c-629f0979eadf" />
+<img width="592" height="107" alt="image" src="https://github.com/user-attachments/assets/7115816e-ed85-441f-ba69-2f058688532d" />
 
 
-<img width="681" height="870" alt="Screenshot 2026-11-16 140419" src="https://github.com/user-attachments/assets/8da6dc46-6d90-40ad-b53a-4b6b97a7ded3" />
+<img width="1262" height="846" alt="image" src="https://github.com/user-attachments/assets/1c93805e-e758-4703-b65a-5de61f1980b4" />
 
 
-<img width="560" height="215" alt="Screenshot 2026-11-16 142246" src="https://github.com/user-attachments/assets/c051a06e-0f17-46cb-bee4-ec01cc465346" />
+<img width="1127" height="736" alt="image" src="https://github.com/user-attachments/assets/87ad8095-0caf-486c-8bf3-bc1b46630c51" />
 
 
-<img width="1068" height="921" alt="Screenshot 2026-11-16 142258" src="https://github.com/user-attachments/assets/f147bb85-1ce4-40fd-9dd7-7791df87a7b4" />
+<img width="1421" height="797" alt="image" src="https://github.com/user-attachments/assets/89285cc7-cada-4254-be8d-2c7c29553249" />
 
 
-<img width="1098" height="949" alt="Screenshot 2026-11-16 142312" src="https://github.com/user-attachments/assets/d9ce414b-e6df-4c8b-8952-281e284fc230" />
+<img width="1337" height="782" alt="image" src="https://github.com/user-attachments/assets/29da0db2-55de-4429-8235-3fddd95df98f" />
 
 
-<img width="817" height="797" alt="Screenshot 2026-11-16 142327" src="https://github.com/user-attachments/assets/084cf05d-22da-4030-883e-6be09fcad29e" />
+<img width="1298" height="593" alt="image" src="https://github.com/user-attachments/assets/343ec573-58d6-4906-8746-bed271e333d3" />
 
 
-<img width="628" height="288" alt="Screenshot 2026-11-16 142339" src="https://github.com/user-attachments/assets/9c7bfdbc-c649-4bbf-b06b-1e4c1429c84a" />
+<img width="1307" height="797" alt="image" src="https://github.com/user-attachments/assets/cb0ebc47-1ee0-46cb-b0aa-d798fb6b06b8" />
 
 
-<img width="917" height="754" alt="Screenshot 2026-11-16 142355" src="https://github.com/user-attachments/assets/db6b06c8-bea5-4985-925f-425a44d26b86" />
+<img width="1232" height="595" alt="image" src="https://github.com/user-attachments/assets/49f5cc02-3050-4b9d-adcb-812883f129e2" />
 
 
-<img width="795" height="299" alt="Screenshot 2026-11-16 142407" src="https://github.com/user-attachments/assets/bbd296d8-6c56-4366-aec0-828359964e71" />
+<img width="1488" height="767" alt="image" src="https://github.com/user-attachments/assets/4bb93744-7366-4eef-bbd1-411ddee88844" />
 
 
-<img width="782" height="263" alt="Screenshot 2026-11-16 142411" src="https://github.com/user-attachments/assets/fa7dc4e9-973b-406e-8885-3b898d184dfe" />
+<img width="1397" height="630" alt="image" src="https://github.com/user-attachments/assets/1fd42c85-34d2-4bde-8c89-51655a36c9e8" />
+
+<img width="742" height="316" alt="image" src="https://github.com/user-attachments/assets/7b5339b5-2892-4fc8-97a6-e0a15781c69a" />
+
+
+
