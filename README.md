@@ -149,5 +149,14 @@ Melalui praktikum ini, berhasil dibuat aplikasi sederhana untuk mengelola data b
 
 <img width="742" height="316" alt="image" src="https://github.com/user-attachments/assets/7b5339b5-2892-4fc8-97a6-e0a15781c69a" />
 
+<img width="1611" height="958" alt="image" src="https://github.com/user-attachments/assets/4c64c9a3-29e9-46a4-aa67-d2230f84f6ac" />
+
+<img width="677" height="405" alt="image" src="https://github.com/user-attachments/assets/fc50f0d2-ad06-474c-9879-395c8c18cdab" />
+
+<img width="652" height="481" alt="image" src="https://github.com/user-attachments/assets/e401748d-74da-4527-bda2-2e9386ba6e60" />
+
+
+
+
 
 
