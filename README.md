@@ -106,13 +106,13 @@ Melalui praktikum ini, berhasil dibuat aplikasi sederhana untuk mengelola data b
 
 ##SCREENSHOT
 
-<img width="276" height="30" alt="Screenshot 2026-11-16 131527" src="https://github.com/user-attachments/assets/971d9355-2545-4a3d-a958-ee00d4e5ad76" />
+<img width="402" height="47" alt="php1" src="https://github.com/user-attachments/assets/1c65ba93-4384-4565-a5f9-d252fea88bd4" />
 
 
-<img width="390" height="176" alt="Screenshot 2026-11-16 131817" src="https://github.com/user-attachments/assets/612d712f-2074-4977-80f4-3ef6d53aec2e" />
+<img width="973" height="292" alt="php2" src="https://github.com/user-attachments/assets/291da2aa-66b1-4141-8ab5-01d6f636c850" />
 
 
-<img width="669" height="95" alt="Screenshot 2026-11-16 131845" src="https://github.com/user-attachments/assets/13c27894-a9bf-46da-ab7a-bcad2ce63c1b" />
+<img width="1037" height="198" alt="php3" src="https://github.com/user-attachments/assets/1a423082-b7b5-4650-b9a8-e53465b8e4bd" />
 
 
 <img width="758" height="283" alt="Screenshot 2026-11-16 132140" src="https://github.com/user-attachments/assets/6c0eeb88-e47b-426b-9cd2-325b20f74614" />
